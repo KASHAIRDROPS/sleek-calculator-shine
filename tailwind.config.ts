@@ -13,6 +13,10 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        mono: ['JetBrains Mono', 'monospace'],
+        sans: ['Inter', 'sans-serif'],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -47,15 +51,17 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        sidebar: {
-          DEFAULT: "hsl(var(--sidebar-background))",
-          foreground: "hsl(var(--sidebar-foreground))",
-          primary: "hsl(var(--sidebar-primary))",
-          "primary-foreground": "hsl(var(--sidebar-primary-foreground))",
-          accent: "hsl(var(--sidebar-accent))",
-          "accent-foreground": "hsl(var(--sidebar-accent-foreground))",
-          border: "hsl(var(--sidebar-border))",
-          ring: "hsl(var(--sidebar-ring))",
+        calc: {
+          display: "hsl(var(--calc-display))",
+          key: "hsl(var(--calc-key))",
+          "key-hover": "hsl(var(--calc-key-hover))",
+          "key-active": "hsl(var(--calc-key-active))",
+          operator: "hsl(var(--calc-operator))",
+          "operator-hover": "hsl(var(--calc-operator-hover))",
+          "operator-active": "hsl(var(--calc-operator-active))",
+          function: "hsl(var(--calc-function))",
+          "function-hover": "hsl(var(--calc-function-hover))",
+          glow: "hsl(var(--calc-glow))",
         },
       },
       borderRadius: {
