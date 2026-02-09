@@ -1,0 +1,29 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "CalcuPlus",
+    "subtitle": "Fast & Easy Math",
+    "description": "A simple calculator for basic arithmetic operations",
+    "homeUrl": "https://sleek-calculator-shine.lovable.app/",
+    "iconUrl": "https://sleek-calculator-shine.lovable.app/icon.png",
+    "splashImageUrl": "https://sleek-calculator-shine.lovable.app/splash.png",
+    "splashBackgroundColor": "#1a1a1a",
+    "screenshotUrls": [
+      "https://sleek-calculator-shine.lovable.app/screenshot1.png",
+      "https://sleek-calculator-shine.lovable.app/screenshot2.png"
+    ],
+    "primaryCategory": "utility",
+    "tags": ["calculator", "math", "utility"],
+    "tagline": "Calculate Instantly",
+    "heroImageUrl": "https://sleek-calculator-shine.lovable.app/hero.png",
+    "ogTitle": "CalcuPlus",
+    "ogDescription": "A simple calculator for basic math",
+    "ogImageUrl": "https://sleek-calculator-shine.lovable.app/og-image.png",
+    "noindex": false
+  }
+}
