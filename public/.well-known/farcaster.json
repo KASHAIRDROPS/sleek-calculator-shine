@@ -1,29 +1,29 @@
 {
   "accountAssociation": {
     "header": "eyJmaWQiOjI3NDEwOTQsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhjRGQ3YzgwRDcwQzg0NzA5QzRiM2Q3M0QxNEVCRDAzOEM2QjFEYzU3In0",
-    "payload": "eyJkb21haW4iOiJzbGVlay1jYWxjdWxhdG9yLXNoaW5lLmxvdmFibGUuYXBwIn0",
-    "signature": "UBVXeC4jLVo3emWF/jJI0cNFS7bR6dT/8IYLerJoqzUEC7CI4MCTXB9qZ7ny+pqzunPtvHU8U5hNmO4blAM8Chs="
+    "payload": "eyJkb21haW4iOiJzbGVlay1jYWxjdWxhdG9yLXNoaW5lLnZlcmNlbC5hcHAifQ",
+    "signature": "67ZkPhBcVYk1aNaCwrVl1XnH+FTklPeMNnBMlI+XqDVm5K9uNRz3fv5oojxyz3AGu0i3wGkML4/kiiSKevCIXhs="
   },
   "miniapp": {
     "version": "1",
     "name": "CalcuPlus",
     "subtitle": "Fast & Easy Math",
     "description": "A simple calculator for basic arithmetic operations",
-    "homeUrl": "https://sleek-calculator-shine.lovable.app/",
-    "iconUrl": "https://sleek-calculator-shine.lovable.app/icon.png",
-    "splashImageUrl": "https://sleek-calculator-shine.lovable.app/splash.png",
+    "homeUrl": "https://sleek-calculator-shine.vercel.app/",
+    "iconUrl": "https://sleek-calculator-shine.vercel.app/icon.png",
+    "splashImageUrl": "https://sleek-calculator-shine.vercel.app/splash.png",
     "splashBackgroundColor": "#1a1a1a",
     "screenshotUrls": [
-      "https://sleek-calculator-shine.lovable.app/screenshot1.png",
-      "https://sleek-calculator-shine.lovable.app/screenshot2.png"
+      "https://sleek-calculator-shine.vercel.app/screenshot1.png",
+      "https://sleek-calculator-shine.vercel.app/screenshot2.png"
     ],
     "primaryCategory": "utility",
     "tags": ["calculator", "math", "utility"],
     "tagline": "Calculate Instantly",
-    "heroImageUrl": "https://sleek-calculator-shine.lovable.app/hero.png",
+    "heroImageUrl": "https://sleek-calculator-shine.vercel.app/hero.png",
     "ogTitle": "CalcuPlus",
     "ogDescription": "A simple calculator for basic math",
-    "ogImageUrl": "https://sleek-calculator-shine.lovable.app/og-image.png",
+    "ogImageUrl": "https://sleek-calculator-shine.vercel.app/og-image.png",
     "noindex": false
   }
 }
