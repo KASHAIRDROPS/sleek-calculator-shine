@@ -10,20 +10,11 @@
     "subtitle": "Fast and Easy Math",
     "description": "A simple calculator for basic arithmetic operations",
     "homeUrl": "https://sleek-calculator-shine.vercel.app/",
-    "iconUrl": "https://sleek-calculator-shine.vercel.app/icon.png",
-    "splashImageUrl": "https://sleek-calculator-shine.vercel.app/splash.png",
+    "iconUrl": "https://sleek-calculator-shine.vercel.app/icon.jpg",
     "splashBackgroundColor": "#1a1a1a",
-    "screenshotUrls": [
-      "https://sleek-calculator-shine.vercel.app/screenshot1.png",
-      "https://sleek-calculator-shine.vercel.app/screenshot2.png"
-    ],
     "primaryCategory": "utility",
     "tags": ["calculator", "math", "utility"],
     "tagline": "Calculate Instantly",
-    "heroImageUrl": "https://sleek-calculator-shine.vercel.app/hero.png",
-    "ogTitle": "CalcuPlus",
-    "ogDescription": "A simple calculator for basic math",
-    "ogImageUrl": "https://sleek-calculator-shine.vercel.app/og-image.png",
     "noindex": false
   }
 }
