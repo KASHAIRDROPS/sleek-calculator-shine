@@ -7,7 +7,7 @@
   "miniapp": {
     "version": "1",
     "name": "CalcuPlus",
-    "subtitle": "Fast & Easy Math",
+    "subtitle": "Fast and Easy Math",
     "description": "A simple calculator for basic arithmetic operations",
     "homeUrl": "https://sleek-calculator-shine.vercel.app/",
     "iconUrl": "https://sleek-calculator-shine.vercel.app/icon.png",
